@@ -1,2 +1,0 @@
-Deposit: $4000.0. Updated Balance: $4000.0
-Withdrawal: $2000.0. Updated Balance: $2000.0
