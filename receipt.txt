@@ -1,0 +1,8 @@
+
+=== Withdrawal Receipt ===
+Receipt ID: WD399331
+Account: 39933
+Account Holder: zain
+Amount: $4000.0
+Remaining Balance: $96000.0
+========================

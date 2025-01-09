@@ -1,0 +1,8 @@
+
+=== Withdrawal Receipt ===
+Receipt ID: WD546411
+Account: 54641
+Account Holder: wahaj
+Amount: $100.0
+Remaining Balance: $300.0
+========================
